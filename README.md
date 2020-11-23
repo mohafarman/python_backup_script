@@ -14,5 +14,3 @@ A small script that backups important directories to an external storage wheneve
 - [] 
 
 ### Errors to hanadle
-- [] tar: /backups/home_dir/mohamad@ZMachine_backup_22-November-2020.tar.gz: Cannot stat: No such file or directory
-tar: Exiting with failure status due to previous errors
