@@ -3,14 +3,15 @@
 <hr />
 
 ### Description
-A small script that backups important directories to an external storage whenever run. Intended to be combined with cron or similar.
+A small script that backs up important directories and (if accessible) moves the back up to an external storage. 
+Intended to be combined with cron.
 
 ### Goals
 - [x] tar directories into backup folder
 - [] remove previous backup
-- [] check if external storage is available
-- [] copy tar back up to external storage
+- [x] check if external storage is available
+- [x] move tar back up to external storage
 - [] remove previous backup from external storage
 - [] 
 
-### Errors to hanadle
+### Errors to handle
